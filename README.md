@@ -5,3 +5,4 @@
 - `rake db:migrate`
 - `rake db:seed`
 - `rails g controller api --no-assets`
+- `rails g controller api::v1::trains --no-assets`
